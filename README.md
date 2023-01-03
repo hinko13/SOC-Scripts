@@ -1,4 +1,4 @@
-<h1>Windows Scripts</h1>
+<h1>DNSRecordsParser</h1>
 
 This directory contains various PowerShell and bash scripts that were used to parse through a list of ~50000 sites in a school's DNS. Many of these sites were unsecured and included login pages, unsecured cameras, printers, and Lab equipment settings/info.
 
